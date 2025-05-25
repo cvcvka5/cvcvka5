@@ -11,7 +11,7 @@ I'm a passionate Python and JavaScript developer who loves creating/integrating 
 ### Projects I'm proud of:
 - [pywhook](https://github.com/cvcvka5/pywhook) – Python library for webhook.site interactions  
 - [0x0](https://github.com/cvcvka5/0x0) – Lightweight file sharing API and CLI tool  
-- [mailpytm]([https://github.com/cvcvka5/mailtm](https://github.com/cvcvka5/mailpytm)) – Temporary email API client for automation  
+- [mailpytm](https://github.com/cvcvka5/mailpytm) – Temporary email API client for automation  
 - [earthquake-turkey-api](https://github.com/cvcvka5/earthquake-turkey-api) – Real-time earthquake data API for Turkey  
 ---
 
