@@ -2,8 +2,7 @@
 
 I'm a passionate Python and JavaScript developer who loves creating/integrating open-source tools and APIs.
 
-🔭 Currently working on: [pywhook](https://github.com/cvcvka5/pywhook)  
-🌱 Learning: Advanced backend architectures and AI integration  
+🌱 Learning: Machine learning & AI  
 💬 Ask me about Python, APIs, and automation  
 
 ---
