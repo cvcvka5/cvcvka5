@@ -1,4 +1,4 @@
-# Hi, I'm Ulus Vatansever 👋 (aka cvcvka5)
+# Hi, I'm Ulus Vatansever 👋
 
 I'm a passionate Python and JavaScript developer who loves creating/integrating open-source tools and APIs.
 
