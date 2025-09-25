@@ -8,7 +8,7 @@ I'm a passionate Python and JavaScript developer who loves creating/integrating 
 ---
 
 ### Skills
-- Python, JavaScript, Node.js  
+- Python, JavaScript, Node.js, Java
 - APIs, Automation, Data scraping 
 - AI prompt engineering & GPT integrations  
 
