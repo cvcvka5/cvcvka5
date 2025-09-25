@@ -3,7 +3,7 @@
 I'm a passionate Python and JavaScript developer who loves creating/integrating open-source tools and APIs.
 
 🌱 Learning: Machine learning & AI  
-💬 Ask me about Python, APIs, and automation  
+💬 Ask me about Python, APIs, Automation and Data scraping.  
 
 ---
 
