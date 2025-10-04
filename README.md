@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My last project [crawl2schema](https://github.com/cvcvka5/crawl2schema)<br>🤝 I’m looking for help with [crawl2schema](https://github.com/cvcvka5/crawl2schema)<br>🌱 I’m currently learning **AI/ML/NN, Pytorch**<br>💬 Ask me about **Python, JavaScript, Automation, Scraping**
+🔭 My last project [crawl2schema](https://github.com/cvcvka5/crawl2schema)<br>🤝 I’m looking for help with [crawl2schema](https://github.com/cvcvka5/crawl2schema)<br>🌱 I’m currently learning **AI/ML/NN, PyTorch**<br>💬 Ask me about **Python, JavaScript, Automation, Scraping**
 
 
 ## 🌐 Socials:
