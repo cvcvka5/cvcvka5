@@ -4,7 +4,7 @@ I picked up Python and JavaScript during the pandemic in 2020, and what started 
 
 I’m currently learning German as I work toward pursuing a bachelor’s degree in Computer Science abroad.
 
-If you’d like to collaborate or bounce around ideas, feel free to reach out at [cvcvka5@gmail.com](mailto:cvcvka5@gmail.com).
+If you’d like to collaborate or bounce around ideas, feel free to reach out at [ulusvatansever@gmail.com](mailto:ulusvatansever@gmail.com).
 
 Currently working on:
 [pyvirtualsms](https://github.com/cvcvka5/pyvirtualsms)
